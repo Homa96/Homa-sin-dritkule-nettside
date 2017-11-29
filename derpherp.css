@@ -1,0 +1,181 @@
+ header{
+ width: 100%;
+ max-height: 300px;
+ 
+ }
+    
+   
+ 
+
+#header img{
+width: 100%;
+height:300px;
+
+}
+
+
+
+
+.blæ{
+color: white;
+position: relative;
+margin:0px;
+font-family:"comic sans ms";
+font-size:60px;
+bottom:200px;
+left: 15px;
+}
+
+.content{
+text-decoration: none;
+width: 800px;
+display: inline-block;
+color:black;
+position: relative;
+left: 50px;
+font-family: "comic sans ms";
+font-weight: bold;
+font-size:15px;
+}
+
+.content2{
+text-decoration: none;
+color: purple;
+margin:0;
+
+font-family: "comic sans ms";
+font-weight: cursive;
+font-size:25px;
+}
+
+img{
+width: 300px;
+display: inline-block;
+
+}
+.berp{
+width: 300px;
+display: inline-block;
+position: relative;
+right:-5px;
+
+}
+ul{
+text-decoration:none;
+list-style: none;
+color:black;
+font-weight: bold;
+font-size:20px;
+}
+
+nav a{
+text-decoration: none;
+color:purple;
+font-size:50px;
+}
+.f2{
+color:grey;
+text-align: center;
+font-size: 12px;
+display:block;
+width: 100%;
+background-color: lightgreen;
+
+}
+
+
+
+
+
+
+.f1{
+color:grey;
+text-align: center;
+font-size: 12px;
+bottom: -290px;
+
+
+}
+nav{
+display: inline-block;
+margin:0px;
+width: 324px;
+height:1000px;
+background-color: lightgreen;
+float:left;
+
+}
+.video{
+display:inline-block;
+}
+
+
+.lp{
+text-align: center;
+font-family: "comic sans ms";
+font-size:15px;
+
+}
+.ded1{
+position: relative;
+overflow: hidden;
+width: 250px;
+right:-750px;
+top:-1158px;
+
+}
+.ded2{
+position:relative;
+overflow: hidden;
+width: 250px;
+left:-231px; 
+top:-1132px;
+}
+
+.ded3{
+position: relative;
+overflow: hidden;
+width: 350px;
+right: -162px;
+bottom:401px;
+}
+
+.bingbang{
+text-align: center;
+font-family: "comic sans ms";
+font-size:15px;
+}
+
+.f3{
+color:grey;
+text-align: center;
+position: relative;
+font-size: 12px;
+bottom: -290px;
+}
+
+table, th, td, tr {
+   border: 1px solid black;
+   	text-align: center;
+}
+.tablediv{
+margin:auto;
+position: relative;
+left:490px;
+}
+
+.graph{
+position: relative;
+left: 428px;
+}
+
+.sang{
+display: block;
+width:560px;
+height:315px;
+}
+
+.intro {
+	display:none;
+}
+
